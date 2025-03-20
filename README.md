@@ -1,6 +1,6 @@
 <div align="center">
 
-# Muck Stealer
+# Muck Enjoyer
 ![muck](https://github.com/MuckPro/botcry/assets/138373919/1860161b-26fb-4524-be8d-cab30c64c75a)
 
 ## Content
